@@ -1,3 +1,3 @@
 ## Mern Exercise Tracker
 
-Simple Mern Stack App that lets record exercises against users.
+Simple Mern Stack App that lets you add exercises against users.
